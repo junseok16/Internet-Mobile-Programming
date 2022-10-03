@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ce69f2640ef30043850f3cff1808a7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mStageBorder: {fileID: 11400000, guid: 103628ddb87988a478c3b6369d32b220, type: 2}
+  - mMonsterPrefab: {fileID: 5687650660465344161, guid: 6bb51135d4f05af45b83ae88c941faf5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
